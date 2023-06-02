@@ -1,0 +1,170 @@
+# <!=Copyright (C) 2021 Rara Theme
+# This file is distributed under the GNU General Public License v2 or later.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: Medical Spa 1.0.6\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/medical-spa\n"
+"POT-Creation-Date: 2021-07-21 09:12:12+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2021-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: functions.php:53
+msgid "&copy; "
+msgstr ""
+
+#: functions.php:53
+msgid "Y"
+msgstr ""
+
+#: functions.php:54
+msgid ". All Rights Reserved."
+msgstr ""
+
+#: functions.php:58
+msgid "Medical Spa | Developed By "
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Rara Theme"
+msgstr ""
+
+#: functions.php:61
+msgid " Powered by: %s"
+msgstr ""
+
+#: functions.php:61
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: functions.php:73
+msgid "Information Links"
+msgstr ""
+
+#: functions.php:83
+msgid "Need help?"
+msgstr ""
+
+#: functions.php:84
+msgid "View demo"
+msgstr ""
+
+#: functions.php:84 functions.php:85 functions.php:86 functions.php:87
+#: functions.php:88 functions.php:89
+msgid "here"
+msgstr ""
+
+#: functions.php:85
+msgid "View documentation"
+msgstr ""
+
+#: functions.php:86
+msgid "Themes info"
+msgstr ""
+
+#: functions.php:87
+msgid "Support ticket"
+msgstr ""
+
+#: functions.php:88
+msgid "Rate this theme"
+msgstr ""
+
+#: functions.php:89
+msgid "More WordPress Themes"
+msgstr ""
+
+#: functions.php:94
+msgid "About Medical Spa"
+msgstr ""
+
+#: functions.php:116
+msgid "Call to Action Section"
+msgstr ""
+
+#: functions.php:133
+msgid "Enable CTA Section"
+msgstr ""
+
+#: functions.php:142 functions.php:286 sections/section-cta.php:9
+msgid "Spa and Salon Pro Theme"
+msgstr ""
+
+#: functions.php:159
+msgid "Call To Action Title"
+msgstr ""
+
+#: functions.php:168 sections/section-cta.php:10
+msgid "Spa and Salon is a beautifully designed theme with lots of solid featured."
+msgstr ""
+
+#: functions.php:185
+msgid "Call To Action Description"
+msgstr ""
+
+#: functions.php:194 functions.php:316 sections/section-cta.php:11
+msgid "View Pro Theme Features"
+msgstr ""
+
+#: functions.php:211
+msgid "Button Label"
+msgstr ""
+
+#: functions.php:228
+msgid "Buttom URL"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Medical Spa"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://rarathemes.com/wordpress-themes/medical-spa/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Medical Spa is a beautiful and clean free multipurpose WordPress theme. The "
+"theme can be used to create a website without any coding skills. If you are "
+"looking for a responsive website for your beauty clinic, spa, salon, "
+"alternative medicine clinic, massage parlor, natural medicine clinic, and "
+"herbal therapy business, Medical Spa is the perfect WordPress theme for "
+"you. The theme is also great for any type of business website. The theme is "
+"mobile-friendly which means your website adjusts itself to the screen sizes "
+"of the visitors for an amazing browsing experience. We have also made "
+"Medical Spa ultra SEO optimized by adding Schema.org markup which helps "
+"Google understand your website better and thus rank you higher. The theme "
+"is also speed optimized. A fast loading website, in addition to helping you "
+"keep your users, helps you rank higher in search engines as well because "
+"Google has made speed a crucial ranking factor in recent years. All these "
+"features of Medical Spa come with a friendly and intuitive theme panel that "
+"helps you create and customize your website as a DIY project. Medical Spa "
+"also comes with regular updates so that your website always uses best web "
+"practice. The clean design built for maximum user interaction also features "
+"testimonials, CTA, and social media section.Furthermore, if you run into "
+"any problem while using the theme, you can refer to extensive documentation "
+"or contact our friendly support team. Check demo at "
+"https://rarathemes.com/previews/?theme=medical-spa and documentation at "
+"https://docs.rarathemes.com/docs/medical-spa/. Read theme details at "
+"https://rarathemes.com/wordpress-themes/medical-spa/ and get free support "
+"at https://rarathemes.com/support-ticket/."
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://rarathemes.com/"
+msgstr ""

@@ -1,0 +1,130 @@
+# Translation of Themes - Medical Spa in French (France)
+# This file is distributed under the same license as the Themes - Medical Spa package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-02-13 13:04:42+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fr\n"
+"Project-Id-Version: Themes - Medical Spa\n"
+
+#. Theme Name of the theme
+msgid "Medical Spa"
+msgstr "Medical Spa"
+
+#: functions.php:58
+msgid "Medical Spa | Developed By "
+msgstr "Medical Spa | Développé par "
+
+#: functions.php:84 functions.php:85 functions.php:86 functions.php:87
+#: functions.php:88 functions.php:89
+msgid "here"
+msgstr "ici"
+
+#: functions.php:83
+msgid "Need help?"
+msgstr "Besoin d’aide ?"
+
+#: functions.php:61
+msgid "https://wordpress.org/"
+msgstr "https://fr.wordpress.org/"
+
+#: functions.php:53
+msgid "Y"
+msgstr "Y"
+
+#: functions.php:53
+msgid "&copy; "
+msgstr "&copy; "
+
+#: functions.php:211
+msgid "Button Label"
+msgstr "Libellé du bouton"
+
+#: functions.php:228
+msgid "Buttom URL"
+msgstr "URL du bouton"
+
+#: functions.php:194 functions.php:316 sections/section-cta.php:11
+msgid "View Pro Theme Features"
+msgstr "Voir les caractéristiques Pro du thème"
+
+#: functions.php:185
+msgid "Call To Action Description"
+msgstr "Description d’appel à l’action"
+
+#: functions.php:168 sections/section-cta.php:10
+msgid "Spa and Salon is a beautifully designed theme with lots of solid featured."
+msgstr "Spa and Salon est un thème magnifiquement conçu avec beaucoup de solides fonctionnalités."
+
+#: functions.php:159
+msgid "Call To Action Title"
+msgstr "Titre d'appel à action"
+
+#: functions.php:142 functions.php:286 sections/section-cta.php:9
+msgid "Spa and Salon Pro Theme"
+msgstr "Thème Spa and Salon Pro"
+
+#: functions.php:133
+msgid "Enable CTA Section"
+msgstr "Activer la section d’appel à action"
+
+#: functions.php:116
+msgid "Call to Action Section"
+msgstr "Section d’appel à action"
+
+#: functions.php:94
+msgid "About Medical Spa"
+msgstr "À propos de Medical Spa"
+
+#: functions.php:89
+msgid "More WordPress Themes"
+msgstr "Plus de thèmes WordPress"
+
+#: functions.php:88
+msgid "Rate this theme"
+msgstr "Noter ce thème"
+
+#: functions.php:87
+msgid "Support ticket"
+msgstr "Ticket de support"
+
+#: functions.php:86
+msgid "Themes info"
+msgstr "Info de thèmes"
+
+#: functions.php:85
+msgid "View documentation"
+msgstr "Voir la documentation"
+
+#: functions.php:84
+msgid "View demo"
+msgstr "Voir la démonstration"
+
+#: functions.php:73
+msgid "Information Links"
+msgstr "Liens d’informations"
+
+#: functions.php:61
+msgid " Powered by: %s"
+msgstr " Propulsé par : %s"
+
+#: functions.php:54
+msgid ". All Rights Reserved."
+msgstr "Tous droits réservés."
+
+#. Theme URI of the theme
+msgid "https://rarathemes.com/wordpress-themes/medical-spa/"
+msgstr "https://rarathemes.com/wordpress-themes/medical-spa/"
+
+#. Author URI of the theme
+msgid "https://rarathemes.com/"
+msgstr "https://rarathemes.com/"
+
+#. Author of the theme
+#: functions.php:59
+msgid "Rara Theme"
+msgstr "Rara Theme"
